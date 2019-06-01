@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TestMcad</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="go">Go</string>
+    <string name="port_no">Port No</string>
+    
+    <string-array name="activity_list">
+        <item>Walking</item>
+        <item>Running</item>
+        <item>Hit</item>
+        <item>Sitting</item>
+        <item>Ridding</item>
+        <item>Standing</item>
+        <item>fall</item>
+        <item>throw</item>
+        <item>Shaking</item>
+        <item>Stairs up</item>
+        <item>Stairs down</item>
+        <item>False throw</item>
+    </string-array>
+</resources>

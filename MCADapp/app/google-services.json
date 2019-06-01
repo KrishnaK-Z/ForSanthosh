@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "877605445577",
+    "firebase_url": "https://mcad-fbebc.firebaseio.com",
+    "project_id": "mcad-fbebc",
+    "storage_bucket": "mcad-fbebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877605445577:android:e75b801ecf62b10a",
+        "android_client_info": {
+          "package_name": "com.example.mcadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877605445577-9jnnrdf83j1ejtqp0do6c9t223b91u3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mcadapp",
+            "certificate_hash": "6f289b55eaa9c3622e727139cc372f2853daaf76"
+          }
+        },
+        {
+          "client_id": "877605445577-3sfpai8heqc62nfo2q6giph8e8eg13al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT29iwBVkZDH05usUxFtFj167xkYUl4n8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877605445577-3sfpai8heqc62nfo2q6giph8e8eg13al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
